@@ -32,4 +32,10 @@ public class MainActivity extends AppCompatActivity {
         int i =0;
         i = i+i;
     }
+
+    void fetchdata(){
+        Log.i("hello",""+"working together");
+
+    }
+
 }
