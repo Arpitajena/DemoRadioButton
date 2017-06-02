@@ -12,7 +12,8 @@ public class MapActivity extends AppCompatActivity {
         setContentView(R.layout.activity_map);
     }
 
-    void addDtaa(){
+    void addDtaa1(){
+        System.out.print("hii Arpita Patel..");
 
     }
 
