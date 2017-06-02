@@ -29,5 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     void senddata(){
         Log.i("hello",""+"hii");
+        int i =0;
+        i = i+i;
     }
 }
