@@ -33,9 +33,5 @@ public class MainActivity extends AppCompatActivity {
         i = i+i;
     }
 
-    void fetchdata(){
-        Log.i("hello",""+"working together");
-
-    }
 
 }
