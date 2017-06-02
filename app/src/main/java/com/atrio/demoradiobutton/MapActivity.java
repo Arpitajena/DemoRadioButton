@@ -12,6 +12,6 @@ public class MapActivity extends AppCompatActivity {
         setContentView(R.layout.activity_map);
     }
     public void Senddata(){
-        Log.i("data00","Data1");
+        Log.i("data00","Data12");
     }
 }
