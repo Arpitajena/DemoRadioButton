@@ -15,7 +15,7 @@ public class MapActivity extends AppCompatActivity {
 
     private void fetchData() {
 
-        Log.i("hii",""+"coming");
+        Log.i("hii",""+"coming..");
     }
 
 
